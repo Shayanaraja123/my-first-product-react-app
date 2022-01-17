@@ -1,0 +1,130 @@
+.about-price{
+    background-image: url(../../../assests/bbg.png);
+    padding-top: 237px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.price{
+    margin-bottom: 176px;
+}
+.price-h{
+  /* Medium 36 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height, or 133% */
+
+text-align: center;
+
+/* Colour/Main/Blue/900 */
+
+color: #091133;
+  
+}
+.p-para{
+    width: 600px;
+    padding-top: 16px;
+    /* Regular 16 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: center;
+
+/* Colour/Main/Blue/400 */
+
+color: #6F7CB2;
+
+}
+.p-d{
+    margin-top: 35px;
+    /* Medium 50 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 66px;
+/* identical to box height, or 132% */
+
+text-align: center;
+letter-spacing: 1px;
+
+/* Colour/Main/Blue/700 */
+
+color: #222F65;
+
+}
+.ui{
+    margin-bottom: 60px;
+/* Regular 16 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+
+/* Colour/Main/Blue/600 */
+
+color: #37447E;
+
+}
+.see-price{
+    /* Regular 14 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+text-align: center;
+
+/* Colour/Main/Grey/600 */
+
+color: #5D6970;
+
+
+}
+.pur-butt{
+width: 189px;
+
+    margin-top: 9px;
+
+    /* Medium 14 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+text-align: center;
+
+/* Colour/Secondary/White 100 (general) */
+
+color: #FFFFFF;
+
+
+/* Colour/Main/Blue/800 */
+
+background: #111B47;
+border-radius: 2px;
+}
+.yawa-button{
+    text-align: center;
+}

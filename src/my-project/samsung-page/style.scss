@@ -1,0 +1,73 @@
+.main-sec {
+  .para-pic {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    .design-para {
+      h1 {
+        width: 520px;
+        /* Medium 36 */
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 48px;
+        /* or 133% */
+
+        /* Colour/Main/Blue/900 */
+
+        color: #091133;
+      }
+      p {
+        width: 520px;
+        /* Regular 16 */
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        /* or 162% */
+
+        /* Colour/Main/Blue/400 */
+
+        color: #6f7cb2;
+      }
+      .titles {
+        .title {
+          h4 {
+            width: 245px;
+            /* Medium 16 */
+
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 26px;
+            /* identical to box height, or 162% */
+
+            /* Colour/Main/Blue/900 */
+
+            color: #091133;
+          }
+          p {
+            width: 240px;
+            /* Regular 12 */
+
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            line-height: 18px;
+            /* or 150% */
+
+            /* Colour/Main/Grey/600 */
+
+            color: #5d6970;
+          }
+        }
+      }
+    }
+  }
+}

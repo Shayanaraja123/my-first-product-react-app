@@ -1,0 +1,88 @@
+.hero-section{
+    display: flex;
+    padding-top: 205px;
+    padding-bottom: 87px;
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100%;
+    
+}
+.intro-sec h1{
+    max-width: 519px;
+    margin-bottom: 20px;
+    /* Medium 50 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 66px;
+/* or 132% */
+
+letter-spacing: 1px;
+
+/* Colour/Main/Blue/900 */
+
+color: #091133;
+
+}
+.intro-sec p {
+    max-width: 539px;
+    /* Regular 18 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+
+/* Colour/Main/Blue/500 */
+
+color: #505F98;
+}
+.intro-buttons{
+    display: flex;
+    margin-top: 69px;
+}
+.purchase-button{
+    margin-right: 30.15px;
+    padding: 5px;
+    width: 189px;
+    /* Medium 16 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+
+/* Colour/Secondary/White 100 (general) */
+
+color: #FFFFFF;
+    /* Colour/Main/Blue/800 */
+
+background: #111B47;
+border-radius: 2px;
+}
+.Learn-button{
+    width: 189px;
+    border: 2px solid #091133;
+    box-sizing: border-box;
+    border-radius: 2px;
+
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+
+}

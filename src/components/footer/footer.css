@@ -1,0 +1,97 @@
+.footer-sec{
+    background-image: url('../../assests/lbp.png');
+}
+.landie-t{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 68px 0px 47px 0px;
+}
+ .company{
+     /* Medium 14 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+/* Colour/Main/Grey/400 */
+
+color: #939EA4;
+
+ }
+ .landie-f{
+     /* Bold 26 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 38px;
+/* identical to box height, or 146% */
+
+
+/* Colour/Logo/Primary */
+
+color: #37447E;
+
+ }
+ .purchase-btn{
+     width: 109px;
+     /* Medium 12 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+/* Colour/Secondary/White 100 (general) */
+
+color: #FFFFFF;
+
+/* Colour/Main/Blue/800 */
+
+background: #111B47;
+border-radius: 2px;
+ }
+ .hoac{
+     display: flex;
+     /* Regular 14 */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+/* Colour/Main/Blue/300 */
+
+color: #929ECC;
+
+
+ }
+ .hoac .hom{
+    margin-right: 30px;
+ }
+ .home-logo{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     border-top: 1px #CDD1D4 solid;
+     padding: 32px 0px;
+ }
+ .logoos{
+     display: flex;
+ }
+     .logoos .f-i{
+ margin-left: 30px;
+ }
